@@ -42,7 +42,7 @@ By deploying street resources in the right stations at the right times, you will
 
 ---
 
-Below is our [link](https://github.com/neokt/mta-turnstile) to our GitHub repo.  
+Here is our [link](https://github.com/neokt/mta-turnstile) to our GitHub repo.  
 
 
 PDF slides of presentation have also been uploaded to GitHub
